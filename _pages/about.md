@@ -7,42 +7,39 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my personal homepage. I am a mathematician primarily working in the **Langlands program** and **representation theory**. 
+Welcome to my personal homepage. I am a sixth-year PhD student in University of Maryland, College Park. My advisor is Prof. Thomas Haines. I obtained my Bachelor's degree from Zhejiang University.
 
 My current research interests include:
-* Trace formulas and the base change fundamental lemma
-* Shimura varieties
 * Representation theory of p-adic groups
-* Structural properties of unramified groups (such as the requirement that the derived subgroup be simply connected for the maximal torus to be an induced torus)
-
+* Trace formulas
+* Langlands Program
 ---
 
-## 🎓 Education
-
-* **Ph.D. in Mathematics**, [University Name], [City, State/Country], [Expected Year / Year]
-* **B.S. in Mathematics**, [University Name], [City, State/Country], [Year]
 
 ## 📝 Publications & Preprints
 
-1. **[Title of Your First Paper]**
-   *Author 1, Author 2 (I recommend bolding your own name)*
-   *[Journal Name or arXiv], 202X.*
-   [[PDF]](/files/paper1.pdf) | [[arXiv]](https://arxiv.org/abs/...)
+1. **[Base change fundamental lemma for Bernstein centers of principal series blocks]**
+   *preprint, 2026.*
+   [[PDF]](https://arxiv.org/pdf/2602.12336)
 
-2. **[Title of Your Second Paper]**
-   *Author 1, Author 2*
-   *In preparation / Preprint, 202X.*
-   [[PDF]](/files/paper2.pdf)
 
 ## 🗣️ Talks & Presentations
 
-* **[Title of the Talk]**, *[Name of Conference or Seminar]*, [City, State/Country], [Month, Year].
-* **[Title of the Talk]**, *[Inviting University or Institution]*, [City, State/Country], [Month, Year].
+*  *[University of Utah Representation Theory / Number Theory Seminar]*, [January 2026].
+*  *[UMD preprint seminar]*, [April 2026].
 
 ## 👨‍🏫 Teaching
 
-* **[Course Name]** (Teaching Assistant / Instructor), *[University Name]*, [Fall/Spring 202X].
-* **[Course Name]** (Teaching Assistant), *[University Name]*, [Fall/Spring 202X].
+* **[Linear Algebra]** (Teaching Assistant), *[University of Maryland, College Park]*, [Fall 2021, Spring 2022, Fall 2022, Spring 2024, Fall 2024, Spring 2025, Fall 2025].
+* **[Calculus 1]** (Teaching Assistant), *[University of Maryland, College Park]*, [Fall 2023].
+* **[Field Theory]** (Grader), *[University of Maryland, College Park]*, [Spring 2026].
+* **[Abstract Algebra 2]** (Grader), *[University of Maryland, College Park]*, [Spring 2026].
+* **[Complex Variables]** (Teaching Assistant), *[University of Maryland, College Park]*, [Spring 2023].
+
+
+## 🎈 Personal Interests
+
+Outside of my mathematical research, I enjoy playing badminton and skiing. I will try to obtain a ski instructor certification next season. Moreover, I'm a 'quasi-professional' opera singer (tenor!).
 
 ---
 *Last updated: February 2026*
