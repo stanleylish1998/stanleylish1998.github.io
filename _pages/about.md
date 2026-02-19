@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my personal homepage. I am a sixth-year PhD student in University of Maryland, College Park. My advisor is Prof. Thomas Haines. I obtained my Bachelor's degree from Zhejiang University.
+Welcome to my personal homepage. I am a sixth-year PhD student in University of Maryland, College Park. My advisor is Prof. Thomas Haines. I obtained my Bachelor's degree from Zhejiang University. My email address is firstname AT umd dot edu.
 
 My current research interests include:
 * Representation theory of p-adic groups
