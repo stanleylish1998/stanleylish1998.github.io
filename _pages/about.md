@@ -46,4 +46,4 @@ My current research interests include:
 Outside of my mathematical research, I enjoy playing badminton and skiing. I will try to obtain a ski instructor certification next season. Moreover, I'm a 'quasi-professional' opera singer (tenor!).
 
 ---
-*Last updated: February 2026*
+*Last updated: July 2026*
