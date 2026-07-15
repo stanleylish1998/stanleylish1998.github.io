@@ -21,7 +21,7 @@ My current research interests include:
 
 1. **[Base change fundamental lemma for Bernstein centers of principal series blocks]**
    *preprint, 2026.*
-   [[PDF]](https://arxiv.org/pdf/2602.12336)
+   [[PDF]](https://arxiv.org/abs/2602.12336)
    
 2. **[Bump-Friedberg type periods beyond the cuspidal spectrum]**
    *preprint, 2026.*
