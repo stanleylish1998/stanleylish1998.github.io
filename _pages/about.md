@@ -29,8 +29,9 @@ My current research interests include:
 
 ## 🗣️ Talks & Presentations
 
-*  *[University of Utah Representation Theory / Number Theory Seminar]*, [January 2026].
+*  *[MIT Lie Group Seminar]*, [October 2026].
 *  *[UMD preprint seminar]*, [April 2026].
+*  *[University of Utah Representation Theory / Number Theory Seminar]*, [January 2026].
 
 ## 👨‍🏫 Teaching
 
@@ -46,4 +47,4 @@ My current research interests include:
 Outside of my mathematical research, I enjoy playing badminton and skiing. I will try to obtain a ski instructor certification next season. Moreover, I'm a 'quasi-professional' opera singer (tenor!).
 
 ---
-*Last updated: July 2026*
+*Last updated: October 2026*
