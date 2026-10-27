@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my personal homepage. I am a sixth-year PhD student in University of Maryland, College Park. My advisor is Prof. Thomas Haines. I obtained my Bachelor's degree from Zhejiang University. My email address is firstname AT umd dot edu.
+Welcome to my personal homepage. I am a seventh-year PhD student in University of Maryland, College Park. My advisor is Prof. Thomas Haines. I obtained my Bachelor's degree from Zhejiang University. My email address is firstname AT umd dot edu.
 
 My current research interests include:
 * Representation theory of p-adic groups
@@ -19,14 +19,15 @@ My current research interests include:
 
 ## 📝 Publications & Preprints
 
-1. **[Base change fundamental lemma for Bernstein centers of principal series blocks]**
+1. **[Stability of certain elements in the Bernstein center]**
    *preprint, 2026.*
-   [[PDF]](https://arxiv.org/abs/2602.12336)
-   
+   [[PDF]](https://arxiv.org/abs/2610.33327)
 2. **[Bump-Friedberg type periods beyond the cuspidal spectrum]**
    *preprint, 2026.*
    [[PDF]](https://arxiv.org/abs/2607.10289)
-
+3. **[Base change fundamental lemma for Bernstein centers of principal series blocks]**
+   *preprint, 2026.*
+   [[PDF]](https://arxiv.org/abs/2602.12336)
 ## 🗣️ Talks & Presentations
 
 *  *[MIT Lie Group Seminar]*, [October 2026].
