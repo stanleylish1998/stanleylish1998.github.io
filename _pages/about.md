@@ -20,7 +20,7 @@ My current research interests include:
 ## 📝 Publications & Preprints
 
 1. **[Stability of certain elements in the Bernstein center]**
-   *preprint, 2026.*
+   *(with Sarbartha Bhattacharya) preprint, 2026.*
    [[PDF]](https://arxiv.org/abs/2610.33327)
 2. **[Bump-Friedberg type periods beyond the cuspidal spectrum]**
    *preprint, 2026.*
